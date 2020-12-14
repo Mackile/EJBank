@@ -1,4 +1,4 @@
-FROM payara/server-full
+FROM payara/server-full:5.2020.6
 
 USER root
 
